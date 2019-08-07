@@ -1,0 +1,4 @@
+## Defines files to be ignored
+
+# Ignore Apple's indexing file
+.DS_Store
