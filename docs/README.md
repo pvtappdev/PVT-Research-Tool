@@ -1,6 +1,6 @@
 # PVT-Research-Tool
 
-## [Latest Android Release](./android/release/INSTALL_README.md)
+## [Latest Android Release](./android/release/edu.tamu.cse.pvt_research_tool.apk)
 
 
 
